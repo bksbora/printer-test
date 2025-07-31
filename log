@@ -1,0 +1,335 @@
+
+bluetootgeneralh_log.txt:57180:07-31 13:05:54.905 W/Looper  ( 1818): Slow dispatch took 106ms android.fg h=android.os.Handler c=android.app.LoadedApk$ServiceDispatcher$RunConnection@5
+2b9144 m=0
+bluetootgeneralh_log.txt:57308:07-31 13:05:57.207 W/ActivityManager( 1818): Scheduling restart of crashed service com.miui.msa.global/com.miui.systemAdSolution.splashscreen.SplashScre
+enService in 130562ms for connection
+bluetootgeneralh_log.txt:57366:07-31 13:05:57.431 W/ActivityManager( 1818): Scheduling restart of crashed service com.google.android.inputmethod.latin/com.android.inputmethod.latin.La
+tinIME in 160338ms for connection
+bluetootgeneralh_log.txt:57370:07-31 13:05:57.442 W/ActivityManager( 1818): Scheduling restart of crashed service com.mi.android.globalminusscreen/com.google.mi.apps.gsa.nowoverlayser
+vice.DrawerOverlayService in 170327ms for connection
+bluetootgeneralh_log.txt:57372:07-31 13:05:57.448 W/BpBinder(18240): PerfMonitor binderTransact :  time=248ms interface=android.net.IConnectivityManager code=3
+bluetootgeneralh_log.txt:57374:07-31 13:05:57.453 W/BpBinder(18240): PerfMonitor binderTransact :  time=239ms interface=android.net.IConnectivityManager code=3
+bluetootgeneralh_log.txt:57407:07-31 13:05:58.081 W/InputMethodManagerService( 1818): 	at com.android.server.inputmethod.InputMethodManagerService.onServiceDisconnected(InputMethodMan
+agerService.java:2819)
+bluetootgeneralh_log.txt:57409:07-31 13:05:58.081 W/InputMethodManagerService( 1818): 	at android.app.LoadedApk$ServiceDispatcher$RunConnection.run(LoadedApk.java:1996)
+bluetootgeneralh_log.txt:57427:07-31 13:05:58.082 W/InputMethodManagerService( 1818): 	at com.android.server.inputmethod.InputMethodManagerService.onServiceDisconnected(InputMethodMan
+agerService.java:2819)
+bluetootgeneralh_log.txt:57429:07-31 13:05:58.082 W/InputMethodManagerService( 1818): 	at android.app.LoadedApk$ServiceDispatcher$RunConnection.run(LoadedApk.java:1996)
+bluetootgeneralh_log.txt:57502:07-31 13:06:00.989 I/ActivityManager( 1818): Start proc 20860:com.android.chrome/u0a209 for service {com.android.chrome/org.chromium.chrome.browser.cust
+omtabs.CustomTabsConnectionService} caller=com.miui.global.packageinstaller
+bluetootgeneralh_log.txt:57615:07-31 13:06:07.543 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:57648:07-31 13:06:07.633 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:57667:07-31 13:06:08.034 W/BroadcastQueue( 1818): Permission Denial: broadcasting Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras)
+ } from null (pid=-1, uid=-1) requires com.miui.securitycenter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION due to registered receiver BroadcastFilter{522406e 1000/u0 ReceiverList{79e0be9
+ 21072 com.miui.securitycenter.remote/1000/u0 remote:c223c70}}
+bluetootgeneralh_log.txt:57668:07-31 13:06:08.034 W/BroadcastQueue( 1818): Permission Denial: broadcasting Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras)
+ } from null (pid=-1, uid=-1) requires com.miui.securitycenter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION due to registered receiver BroadcastFilter{8a463d7 1000/u0 ReceiverList{5586756
+ 21072 com.miui.securitycenter.remote/1000/u0 remote:5a5d71}}
+bluetootgeneralh_log.txt:57708:07-31 13:06:08.587 W/BroadcastQueue( 1818): Permission Denial: broadcasting Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras)
+ } from null (pid=-1, uid=-1) requires com.miui.securitycenter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION due to registered receiver BroadcastFilter{be4ecee 1000/u0 ReceiverList{f459a69
+ 21072 com.miui.securitycenter.remote/1000/u0 remote:b8cf4f0}}
+bluetootgeneralh_log.txt:57710:07-31 13:06:08.703 W/BroadcastQueue( 1818): Permission Denial: broadcasting Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras)
+ } from null (pid=-1, uid=-1) requires com.miui.securitycenter.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION due to registered receiver BroadcastFilter{e5e6834 1000/u0 ReceiverList{6f27f07
+ 21072 com.miui.securitycenter.remote/1000/u0 remote:2ce3146}}
+bluetootgeneralh_log.txt:57761:07-31 13:06:09.324 W/ActivityManager( 1818): Scheduling restart of crashed service com.miui.global.packageinstaller/org.chromium.content.app.SandboxedPr
+ocessService0:0 in 28445ms for connection
+bluetootgeneralh_log.txt:58039:07-31 13:06:20.815 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58070:07-31 13:06:20.944 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58106:07-31 13:06:22.186 I/ExplicitHealthCheckController( 1818): Not binding to service, service already connecting
+bluetootgeneralh_log.txt:58107:07-31 13:06:22.189 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58120:07-31 13:06:22.399 I/RescueParty( 1818): Starting to observe: [android, com.google.android.networkstack], updated namespace: connectivity
+bluetootgeneralh_log.txt:58141:07-31 13:06:22.404 I/ExplicitHealthCheckController( 1818): Not binding to service, service already connecting
+bluetootgeneralh_log.txt:58142:07-31 13:06:22.412 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58175:07-31 13:06:22.544 I/ExplicitHealthCheckController( 1818): Not binding to service, service already connecting
+bluetootgeneralh_log.txt:58176:07-31 13:06:22.547 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58207:07-31 13:06:22.601 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58238:07-31 13:06:22.733 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58277:07-31 13:06:24.579 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58309:07-31 13:06:24.812 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58340:07-31 13:06:24.848 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58373:07-31 13:06:25.196 I/ExplicitHealthCheckController( 1818): Not binding to service, service already connecting
+bluetootgeneralh_log.txt:58374:07-31 13:06:25.198 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58405:07-31 13:06:25.357 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58437:07-31 13:06:25.399 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58472:07-31 13:06:25.445 I/ExplicitHealthCheckController( 1818): Not binding to service, service already connecting
+bluetootgeneralh_log.txt:58473:07-31 13:06:25.445 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58510:07-31 13:06:25.639 I/ExplicitHealthCheckController( 1818): Explicit health check service is connected ComponentInfo{com.google.android.ext.services/andr
+oid.ext.services.watchdog.ExplicitHealthCheckServiceImpl}
+bluetootgeneralh_log.txt:58614:07-31 13:06:33.010 W/ActivityManager( 1818): Scheduling restart of crashed service com.google.android.projection.gearhead/com.google.android.apps.auto.c
+arservice.service.impl.GearheadCarStartupService in 1000ms for connection
+bluetootgeneralh_log.txt:58657:07-31 13:06:34.905 W/ActivityManager( 1818): Scheduling restart of crashed service com.miui.global.packageinstaller/org.chromium.content.app.SandboxedPr
+ocessService0:0 in 1000ms for connection
+bluetootgeneralh_log.txt:58841:07-31 13:16:12.903 I/ActivityManager( 1818): Process com.xiaomi.mi_connect_service (pid 12669) has died: cch+65 SVC 
+bluetootgeneralh_log.txt:58843:07-31 13:16:12.908 W/ActivityManager( 1818): Scheduling restart of crashed service com.xiaomi.mi_connect_service/com.xiaomi.idm.handoff_process_service.
+HandoffProcessService in 1000ms for start-requested
+bluetootgeneralh_log.txt:58844:07-31 13:16:12.909 W/ActivityManager( 1818): Scheduling restart of crashed service com.xiaomi.mi_connect_service/.MiConnectService in 10999ms for start-
+requested
+bluetootgeneralh_log.txt:58854:07-31 13:16:13.976 I/ActivityManager( 1818): Start proc 23882:com.xiaomi.mi_connect_service/1000 for service {com.xiaomi.mi_connect_service/com.xiaomi.i
+dm.handoff_process_service.HandoffProcessService} caller=com.xiaomi.mi_connect_service
+bluetootgeneralh_log.txt:58856:07-31 13:16:14.144 E/LoadedApk(23882): java.lang.ClassNotFoundException: Didn't find class "androidx.core.app.CoreComponentFactory" on path: DexPathList
+[[zip file "/system/app/mi_connect_service/mi_connect_service.apk"],nativeLibraryDirectories=[/system/app/mi_connect_service/lib/arm64, /system/app/mi_connect_service/mi_connect_servi
+ce.apk!/lib/arm64-v8a, /system/lib64, /system/system_ext/lib64, /system/lib64, /system/system_ext/lib64]]
+bluetootgeneralh_log.txt:58878:07-31 13:16:14.537 I/ActivityManager( 1818): Start proc 23928:com.xiaomi.account:accountservice/u0a118 for service {com.xiaomi.account/com.xiaomi.accoun
+t.PassportServiceTokenService} caller=com.xiaomi.mi_connect_service
+bluetootgeneralh_log.txt:58962:07-31 13:22:36.175 W/ActivityManager( 1818): Scheduling restart of crashed service com.android.vending/com.google.android.finsky.setup.dse.impl.DseServi
+ce in 1000ms for connection
+bluetootgeneralh_log.txt:59163:07-31 13:23:43.266 W/ActivityManager( 1818): Scheduling restart of crashed service com.google.android.googlequicksearchbox/com.google.android.libraries.
+search.integrations.tiktok.RemoteWorkerService_googleapp in 1000ms for connection
+bluetootgeneralh_log.txt:59190:07-31 13:26:08.872 E/AdbDebuggingManager( 1818): Caught an exception opening the socket: java.io.IOException: Connection refused
+bluetootgeneralh_log.txt:59246:07-31 13:26:24.398 I/ActivityManager( 1818): Waited long enough for: ServiceRecord{dde09bd u0 com.android.settings/.connecteddevice.usb.MiUsbService}
+bluetootgeneralh_log.txt:59254:07-31 13:26:33.703 W/BroadcastQueue( 1818): Permission Denial: broadcasting Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras)
+ } from null (pid=-1, uid=-1) requires com.google.android.youtube.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION due to registered receiver BroadcastFilter{1bbb717 10199/u0 ReceiverList{e37
+ff96 25776 com.google.android.youtube/10199/u0 remote:7942eb1}}
+bluetootgeneralh_log.txt:59256:07-31 13:26:35.023 I/ActivityManager( 1818): Start proc 25955:com.android.chrome/u0a209 for service {com.android.chrome/org.chromium.chrome.browser.cust
+omtabs.CustomTabsConnectionService} caller=com.google.android.youtube
+bluetootgeneralh_log.txt:59286:07-31 13:34:55.152 W/ActivityManager( 1818): Scheduling restart of crashed service com.android.chrome/org.chromium.chrome.browser.customtabs.CustomTabsC
+onnectionService in 10900ms for connection
+bluetootgeneralh_log.txt:59295:07-31 13:34:55.802 I/Telecom ( 1818): PhoneAccountRegistrar: Modify account: [ComponentInfo{com.google.android.gm/androidx.core.telecom.internal.Jetpack
+ConnectionService}, ***, UserHandle{0}(lbl: Telecom-Jetpack -> Gmail)]: TSI.rPA@BpY
+bluetootgeneralh_log.txt:59297:07-31 13:34:55.807 I/Telecom ( 1818): MiuiCallsManager: handlePhoneAccountChanged: phoneAccount=[[X] PhoneAccount: ComponentInfo{com.google.android.gm/a
+ndroidx.core.telecom.internal.JetpackConnectionService}, ***, UserHandle{0} Capabilities: SelfManaged SuppVideo Video  Audio Routes: BESW Schemes: tel  Extras: Bundle[{isCoreTelecomAc
+count=true}] GroupId: ***]: TSI.rPA@BpY
+bluetootgeneralh_log.txt:59320:07-31 13:37:04.533 W/ActivityManager( 1818): Scheduling restart of crashed service com.google.android.googlequicksearchbox/com.google.android.libraries.
+search.integrations.tiktok.RemoteWorkerService_googleapp in 1000ms for connection
+bluetootgeneralh_log.txt:61628:07-31 13:40:28.470 I/android_work(    0): sent uevent USB_STATE=DISCONNECTED
+bluetootgeneralh_log.txt:61630:07-31 13:40:28.555 I/android_work(    0): sent uevent USB_STATE=CONNECTED
+bluetootgeneralh_log.txt:61658:07-31 13:40:28.703 I/android_work(    0): sent uevent USB_STATE=DISCONNECTED
+bluetootgeneralh_log.txt:61674:07-31 13:40:28.892 I/android_work(    0): sent uevent USB_STATE=CONNECTED
+bluetootgeneralh_log.txt:61961:07-31 13:40:45.698 I/ActivityManager( 1818): Waited long enough for: ServiceRecord{9ac76b5 u0 com.android.settings/.connecteddevice.usb.MiUsbService}
+bluetootgeneralh_log.txt:63025:07-31 13:41:39.022 E/AdbDebuggingManager( 1818): Caught an exception opening the socket: java.io.IOException: Connection refused
+bluetootgeneralh_log.txt:63039:07-31 13:41:37.465 I/android_work(    0): sent uevent USB_STATE=DISCONNECTED
+bluetootgeneralh_log.txt:63057:07-31 13:41:37.648 I/android_work(    0): sent uevent USB_STATE=CONNECTED
+bluetootgeneralh_log.txt:63726:07-31 13:42:03.518 W/BroadcastQueue( 1818): Permission Denial: broadcasting Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras)
+ } from null (pid=-1, uid=-1) requires com.tencent.bugly.BuglyBroadcastReceiver.permission due to registered receiver BroadcastFilter{d91e54c 10314/u0 ReceiverList{6fe17f 27798 com.pr
+oject.aimotech.printmaster/10314/u0 remote:362329e}}
+bluetootgeneralh_log.txt:63960:07-31 13:42:06.037 I/Perf    (28033): Connecting to perf service.
+bluetootgeneralh_log.txt:63994:07-31 13:42:06.248 I/GH.WifiBluetoothRcvr(28033): Connection action: android.bluetooth.device.action.ACL_CONNECTED, device 2E:B8:1A:34:45:D7
+bluetootgeneralh_log.txt:64031:07-31 13:42:06.384 I/ytj     ( 9165): (REDACTED) bluetoothConnectionStateChanged. Action: %s
+bluetootgeneralh_log.txt:64055:07-31 13:42:06.453 I/GH.ConnLoggerV2(28033): Session 79ff5569-aaaf-4771-8736-8b8fbcc090c1, event 1, detail OptionalInt.empty, USB_CHARGER_CONNECTED, at 
+1476393838 
+bluetootgeneralh_log.txt:64057:07-31 13:42:06.454 I/GH.ConnLoggerV2(28033): Session 79ff5569-aaaf-4771-8736-8b8fbcc090c1, event 3, detail OptionalInt.empty, INTERNET_CONNECTED, at 147
+6393857 throttle THROTTLE_LIMIT_EXCEEDED
+bluetootgeneralh_log.txt:64062:07-31 13:42:06.496 I/GH.SharedServiceConnect(28033): onServiceConnected(ComponentName:ComponentInfo{com.google.android.projection.gearhead/com.google.an
+droid.gearhead.service.SharedService}, service:jzx@29c276b)
+bluetootgeneralh_log.txt:64175:07-31 13:42:07.183 I/chatty  (12600): uid=1002(bluetooth) FastConnectServ expire 5 lines
+bluetootgeneralh_log.txt:64296:07-31 13:42:07.359 D/BluetoothSocket(27798): close() this: android.bluetooth.BluetoothSocket@8c19d0b, channel: 1, mSocketIS: android.net.LocalSocketImpl
+$SocketInputStream@9cb67e8, mSocketOS: android.net.LocalSocketImpl$SocketOutputStream@ab41e01mSocket: android.net.LocalSocket@59b44a6 impl:android.net.LocalSocketImpl@6afee7 fd:java.i
+o.FileDescriptor@4e31a94, mSocketState: CONNECTED
+bluetootgeneralh_log.txt:64353:07-31 13:42:07.565 E/BluetoothService(27798): 	at android.bluetooth.BluetoothSocket.connect(BluetoothSocket.java:404)
+bluetootgeneralh_log.txt:64354:07-31 13:42:07.565 E/BluetoothService(27798): 	at com.project.aimotech.printer.bluetooth.classic.BluetoothService$ConnectThread.run(BluetoothService.jav
+a:270)
+bluetootgeneralh_log.txt:64369:07-31 13:42:07.592 I/ytj     ( 9165): (REDACTED) bluetoothConnectionStateChanged. Action: %s
+bluetootgeneralh_log.txt:64383:07-31 13:42:07.632 D/TrackEventInterceptor(27798): intercept: --> ÕÄşÕğïurl https://api-oversea.qu-in.top/api/endPoint/connecting?sn=Q199E4CU7260973&fir
+mwareVersion=2.2.3
+bluetootgeneralh_log.txt:64552:07-31 13:42:09.231 I/Perf    (28118): Connecting to perf service.
+bluetootgeneralh_log.txt:64602:07-31 13:42:09.484 I/GH.ConnLoggerV2(28033): connectivity state updated: false
+bluetootgeneralh_log.txt:64647:07-31 13:42:10.157 I/GH.WifiBluetoothRcvr(28033): Connection action: android.bluetooth.device.action.ACL_CONNECTED, device 2E:B8:1A:34:45:D7
+bluetootgeneralh_log.txt:64657:07-31 13:42:10.183 I/ytj     ( 9165): (REDACTED) bluetoothConnectionStateChanged. Action: %s
+bluetootgeneralh_log.txt:64722:07-31 13:42:11.621 D/TrackEventInterceptor(27798): intercept: --> ÕÄşÕğïurl https://api-oversea.qu-in.top/api/endPoint/connecting?sn=Q199E4CU7260973&fir
+mwareVersion=2.2.3
+bluetootgeneralh_log.txt:64796:07-31 13:42:13.232 I/GH.ConnLoggerV2(28033): connectivity state updated: false
+bluetootgeneralh_log.txt:65612:07-31 13:42:34.303 I/Perf    (28203): Connecting to perf service.
+bluetootgeneralh_log.txt:65622:07-31 13:42:34.700 I/chatty  ( 1818): uid=1000(system) ConnectivitySer expire 871 lines
+bluetootgeneralh_log.txt:65641:07-31 13:42:34.955 I/Perf    (28258): Connecting to perf service.
+bluetootgeneralh_log.txt:65667:07-31 13:42:35.176 W/ConnectivityManager.CallbackHandler(28203): callback not found for CALLBACK_AVAILABLE message
+bluetootgeneralh_log.txt:65683:07-31 13:42:35.543 W/BroadcastQueue( 1818): Permission Denial: broadcasting Intent { act=android.net.conn.CONNECTIVITY_CHANGE flg=0x4200010 (has extras)
+ } from null (pid=-1, uid=-1) requires com.google.android.youtube.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION due to registered receiver BroadcastFilter{b434338 10199/u0 ReceiverList{2d9
+39b 28203 com.google.android.youtube/10199/u0 remote:9f52baa}}
+bluetootgeneralh_log.txt:65719:07-31 13:42:36.943 I/ActivityManager( 1818): Start proc 28334:com.android.chrome/u0a209 for service {com.android.chrome/org.chromium.chrome.browser.cust
+omtabs.CustomTabsConnectionService} caller=com.google.android.youtube
+bluetootgeneralh_log.txt:65742:07-31 13:42:37.117 I/Perf    (28334): Connecting to perf service.
+bluetootgeneralh_log.txt:65834:07-31 13:42:37.913 I/Perf    (28409): Connecting to perf service.
+bluetootgeneralh_log.txt:65895:07-31 13:42:38.191 I/Perf    (28403): Connecting to perf service.
+bluetootgeneralh_log.txt:65911:07-31 13:42:38.256 I/CameraManagerGlobal(28334): Connecting to camera service
+bluetootgeneralh_log.txt:66153:07-31 13:42:39.021 I/PlayCore(28334): UID: [10209]  PID: [28334] AppUpdateService : ServiceConnectionImpl.onServiceConnected(ComponentInfo{com.android.v
+ending/com.google.android.finsky.installservice.DevTriggeredUpdateService})
+bluetootgeneralh_log.txt:66242:07-31 13:42:39.423 I/Perf    (28548): Connecting to perf service.
+bluetootgeneralh_log.txt:66584:07-31 13:42:40.213 I/Perf    (28607): Connecting to perf service.
+bluetootgeneralh_log.txt:66629:07-31 13:42:40.544 I/Finsky  (28403): [2] Connecting InstallListener to SplitInstallService broadcaster...
+bluetootgeneralh_log.txt:66633:07-31 13:42:40.552 I/chatty  ( 1818): uid=1000(system) ConnectivitySer expire 2 lines
+bluetootgeneralh_log.txt:66671:07-31 13:42:41.567 I/chatty  ( 1818): uid=1000(system) ConnectivitySer expire 4 lines
+bluetootgeneralh_log.txt:66682:07-31 13:42:41.577 I/chatty  ( 1818): uid=1000(system) ConnectivitySer expire 4 lines
+bluetootgeneralh_log.txt:66978:07-31 13:42:49.274 W/ActivityManager( 1818): Scheduling restart of crashed service com.android.chrome/org.chromium.chrome.browser.customtabs.CustomTabsC
+onnectionService in 1000ms for connection
+bluetootgeneralh_log.txt:67131:07-31 13:42:50.708 D/SlaveWifiManager( 1818): getWifiSlaveConnectionInfo
+bluetootgeneralh_log.txt:67132:07-31 13:42:50.710 I/chatty  ( 1818): uid=1000(system) ConnectivitySer identical 51 lines
+bluetootgeneralh_log.txt:67133:07-31 13:42:50.710 D/SlaveWifiManager( 1818): getWifiSlaveConnectionInfo
+bluetootgeneralh_log.txt:67564:07-31 13:42:59.840 D/MiuiFastConnectService(12600): stopBleScan: scanning: true
+bluetootgeneralh_log.txt:67566:07-31 13:42:59.845 D/BtGatt.GattService(16319): stopScan() - queue size =2
+bluetootgeneralh_log.txt:67567:07-31 13:42:59.852 I/BtGatt.ScanManager(16319): msg.what = 1
+bluetootgeneralh_log.txt:67568:07-31 13:42:59.853 D/BtGatt.GattService(16319): unregisterScanner() - scannerId=6
+bluetootgeneralh_log.txt:67569:07-31 13:42:59.854 V/bt_stack(16319): [VERBOSE1:gatt_api.cc(1002)] GATT_Deregister gatt_if=6
+bluetootgeneralh_log.txt:67570:07-31 13:42:59.854 V/bt_stack(16319): [VERBOSE1:connection_manager.cc(161)] on_app_deregistered : app_id 0x06
+bluetootgeneralh_log.txt:67576:07-31 13:42:59.868 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=1, availableSpace=9
+bluetootgeneralh_log.txt:67577:07-31 13:42:59.869 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67578:07-31 13:42:59.875 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=1, availableSpace=10
+bluetootgeneralh_log.txt:67579:07-31 13:42:59.875 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67580:07-31 13:42:59.881 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=1, availableSpace=11
+bluetootgeneralh_log.txt:67581:07-31 13:42:59.882 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67582:07-31 13:42:59.889 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=1, availableSpace=12
+bluetootgeneralh_log.txt:67583:07-31 13:42:59.889 D/MiuiFastConnectService(12600): handleMessage: MSG_START_BLE_SCAN
+bluetootgeneralh_log.txt:67584:07-31 13:42:59.889 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67586:07-31 13:42:59.897 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=1, availableSpace=13
+bluetootgeneralh_log.txt:67587:07-31 13:42:59.898 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67588:07-31 13:42:59.898 D/BtGatt.ScanManager(16319): configureRegularScanParams() - queue=1
+bluetootgeneralh_log.txt:67589:07-31 13:42:59.899 D/BtGatt.ScanManager(16319): configureRegularScanParams() - ScanSetting LE 1M Scan mode=1ScanSetting LE Coded Scan mode=-2147483648 m
+LastConfiguredScanSettingLE1M=1 mLastConfiguredScanSettingLECoded=0scanPhy=1
+bluetootgeneralh_log.txt:67590:07-31 13:42:59.900 D/BtGatt.ScanManager(16319): configureRegularScanParams() - queue emtpy, scan stopped
+bluetootgeneralh_log.txt:67591:07-31 13:42:59.900 D/BtGatt.GattService(16319): registerScanner() - UUID=e3c3f7c6-f23c-4586-a616-83d013a36586
+bluetootgeneralh_log.txt:67592:07-31 13:42:59.900 D/BtGatt.ScanManager(16319): configureRegularScanParams - scanInterval LE 1M = 730configureRegularScanParams - scanWindow LE 1M= 183c
+onfigureRegularScanParams - scanInterval LE Coded= -2147483648configureRegularScanParams - scanWindow LE Coded= -2147483648
+bluetootgeneralh_log.txt:67593:07-31 13:42:59.901 D/BtGatt.GattService(16319): onScanParamSetupCompleted : 0
+bluetootgeneralh_log.txt:67594:07-31 13:42:59.902 V/bt_stack(16319): [VERBOSE1:bta_gattc_act.cc(201)] bta_gattc_register: state:2
+bluetootgeneralh_log.txt:67595:07-31 13:42:59.903 I/bt_stack(16319): [INFO:gatt_api.cc(959)] GATT_Register 027c04c4-4d69-74ec-5e51-0f95ac536135
+bluetootgeneralh_log.txt:67596:07-31 13:42:59.903 I/bt_stack(16319): [INFO:gatt_api.cc(979)] allocated gatt_if=6
+bluetootgeneralh_log.txt:67597:07-31 13:42:59.903 V/bt_stack(16319): [VERBOSE1:gatt_api.cc(1089)] GATT_StartIf gatt_if=6
+bluetootgeneralh_log.txt:67598:07-31 13:42:59.904 V/bt_stack(16319): [VERBOSE1:gatt_utils.cc(254)] gatt_find_the_connected_bda start_idx=0
+bluetootgeneralh_log.txt:67599:07-31 13:42:59.904 V/bt_stack(16319): [VERBOSE1:gatt_utils.cc(266)]  found=0 found_idx=7
+bluetootgeneralh_log.txt:67600:07-31 13:42:59.904 D/BtGatt.GattService(16319): onScannerRegistered() - UUID=e3c3f7c6-f23c-4586-a616-83d013a36586, scannerId=6, status=0
+bluetootgeneralh_log.txt:67603:07-31 13:42:59.915 D/BtGatt.GattService(16319): start scan with filters. callingPackage: com.xiaomi.bluetooth
+bluetootgeneralh_log.txt:67605:07-31 13:42:59.918 E/BtGatt.GattService(16319):  [Landroid.content.pm.ServiceInfo;@71c8150
+bluetootgeneralh_log.txt:67607:07-31 13:42:59.923 I/BtGatt.ScanManager(16319): msg.what = 0
+bluetootgeneralh_log.txt:67608:07-31 13:42:59.923 D/BtGatt.ScanManager(16319): handling starting scan
+bluetootgeneralh_log.txt:67609:07-31 13:42:59.924 D/BtGatt.ScanManager(16319): isAptXLowLatencyModeEnabled: false
+bluetootgeneralh_log.txt:67610:07-31 13:42:59.928 D/BtGatt.GattService(16319): onScanFilterEnableDisabled() - clientIf=6, status=0, action=1
+bluetootgeneralh_log.txt:67611:07-31 13:42:59.928 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67612:07-31 13:42:59.928 D/BtGatt.ScanManager(16319): Available Filter size: 10
+bluetootgeneralh_log.txt:67613:07-31 13:42:59.930 D/BtGatt.GattService(16319): onScanFilterConfig() - clientIf=6, action = 0 status = 0, filterType=0, availableSpace=0
+bluetootgeneralh_log.txt:67614:07-31 13:42:59.930 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67615:07-31 13:42:59.930 D/BtGatt.ScanManager(16319): configureFilterParamter 500 10000 1 0, deliveryMode=0
+bluetootgeneralh_log.txt:67616:07-31 13:42:59.935 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=0, availableSpace=12
+bluetootgeneralh_log.txt:67617:07-31 13:42:59.935 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67618:07-31 13:42:59.936 D/BtGatt.GattService(16319): onScanFilterConfig() - clientIf=6, action = 0 status = 0, filterType=0, availableSpace=0
+bluetootgeneralh_log.txt:67619:07-31 13:42:59.936 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67620:07-31 13:42:59.937 D/BtGatt.ScanManager(16319): configureFilterParamter 500 10000 1 0, deliveryMode=0
+bluetootgeneralh_log.txt:67627:07-31 13:42:59.952 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=0, availableSpace=11
+bluetootgeneralh_log.txt:67628:07-31 13:42:59.952 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67629:07-31 13:42:59.954 D/BtGatt.GattService(16319): onScanFilterConfig() - clientIf=6, action = 0 status = 0, filterType=0, availableSpace=0
+bluetootgeneralh_log.txt:67630:07-31 13:42:59.954 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67631:07-31 13:42:59.955 D/BtGatt.ScanManager(16319): configureFilterParamter 500 10000 1 0, deliveryMode=0
+bluetootgeneralh_log.txt:67636:07-31 13:42:59.965 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=0, availableSpace=10
+bluetootgeneralh_log.txt:67637:07-31 13:42:59.966 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67638:07-31 13:42:59.967 D/BtGatt.GattService(16319): onScanFilterConfig() - clientIf=6, action = 0 status = 0, filterType=0, availableSpace=0
+bluetootgeneralh_log.txt:67639:07-31 13:42:59.967 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67640:07-31 13:42:59.968 D/BtGatt.ScanManager(16319): configureFilterParamter 500 10000 1 0, deliveryMode=0
+bluetootgeneralh_log.txt:67641:07-31 13:42:59.972 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=0, availableSpace=9
+bluetootgeneralh_log.txt:67642:07-31 13:42:59.972 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67643:07-31 13:42:59.974 D/BtGatt.GattService(16319): onScanFilterConfig() - clientIf=6, action = 0 status = 0, filterType=0, availableSpace=0
+bluetootgeneralh_log.txt:67644:07-31 13:42:59.974 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67645:07-31 13:42:59.974 D/BtGatt.ScanManager(16319): configureFilterParamter 500 10000 1 0, deliveryMode=0
+bluetootgeneralh_log.txt:67646:07-31 13:42:59.978 D/BtGatt.GattService(16319): onScanFilterParamsConfigured() - clientIf=6, status=0, action=0, availableSpace=8
+bluetootgeneralh_log.txt:67647:07-31 13:42:59.978 D/BtGatt.ScanManager(16319): callback done for scannerId - 6 status - 0
+bluetootgeneralh_log.txt:67648:07-31 13:42:59.979 D/BtGatt.ScanManager(16319): configureRegularScanParams() - queue=2
+bluetootgeneralh_log.txt:67649:07-31 13:42:59.979 D/BtGatt.ScanManager(16319): configureRegularScanParams() - ScanSetting LE 1M Scan mode=1ScanSetting LE Coded Scan mode=0 mLastConfig
+uredScanSettingLE1M=1 mLastConfiguredScanSettingLECoded=-2147483648scanPhy=255
+bluetootgeneralh_log.txt:67650:07-31 13:42:59.980 D/BtGatt.ScanManager(16319): configureRegularScanParams - scanInterval LE 1M = 730configureRegularScanParams - scanWindow LE 1M= 183c
+onfigureRegularScanParams - scanInterval LE Coded= 1200configureRegularScanParams - scanWindow LE Coded= 80
+bluetootgeneralh_log.txt:67651:07-31 13:42:59.981 D/BtGatt.GattService(16319): onScanParamSetupCompleted : 0
+bluetootgeneralh_log.txt:68655:07-31 13:43:19.806 D/MiuiMultiWindowAdapter( 1818): MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.
+miui.weather2, com.miui.miservice, com.android.calendar, com.xiaomi.calendar, com.android.contacts, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.
+miui.backup, com.miui.huanji, com.miui.calculator, com.android.deskclock, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health,
+ com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclie
+nt, com.miui.securitycore, com.xiaomi.account, com.xiaomi.shop, com.mipay.wallet, com.xiaomi.youpin, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mi
+moji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.android.incallui, com.miui.video, com.miui.videoplayer, com.miui.player, com.miui.fm, com.miui.packag
+einstaller, com.mi.android.globallauncher, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.
+prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldr
+un.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mf
+p.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, 
+com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi]
+bluetootgeneralh_log.txt:68722:07-31 13:43:20.103 D/DeviceListActivity(27798): startScan: hadConnectedtrue
+bluetootgeneralh_log.txt:68895:07-31 13:43:20.554 D/DeviceListActivity(27798): startScan: hadConnectedtrue
+bluetootgeneralh_log.txt:69248:07-31 13:43:22.633 D/DeviceListActivity(27798): startScan: hadConnectedtrue
+bluetootgeneralh_log.txt:70262:07-31 13:43:29.536 D/MiuiMultiWindowAdapter( 1818): MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.
+miui.weather2, com.miui.miservice, com.android.calendar, com.xiaomi.calendar, com.android.contacts, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.
+miui.backup, com.miui.huanji, com.miui.calculator, com.android.deskclock, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health,
+ com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclie
+nt, com.miui.securitycore, com.xiaomi.account, com.xiaomi.shop, com.mipay.wallet, com.xiaomi.youpin, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mi
+moji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.android.incallui, com.miui.video, com.miui.videoplayer, com.miui.player, com.miui.fm, com.miui.packag
+einstaller, com.mi.android.globallauncher, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.
+prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldr
+un.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mf
+p.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, 
+com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi]
+bluetootgeneralh_log.txt:70474:07-31 13:43:32.571 D/BluetoothSocket(27798): close() this: android.bluetooth.BluetoothSocket@3f7948b, channel: 1, mSocketIS: android.net.LocalSocketImpl
+$SocketInputStream@e2ec968, mSocketOS: android.net.LocalSocketImpl$SocketOutputStream@9b9a181mSocket: android.net.LocalSocket@e054226 impl:android.net.LocalSocketImpl@1c8ee67 fd:java.
+io.FileDescriptor@5db1414, mSocketState: CONNECTED
+bluetootgeneralh_log.txt:70494:07-31 13:43:32.586 W/bt_rfcomm(16319): port_rfc_closed: RFCOMM connection closed, index=28, state=3 reason=Closed[19], UUID=1101, bd_addr=2e:b8:1a:34:45
+:d7, is_server=0
+bluetootgeneralh_log.txt:70514:07-31 13:43:32.744 I/bt_btm_sec(16319): btm_sec_disconnected clearing pending flag handle:10 reason:19
+bluetootgeneralh_log.txt:70515:07-31 13:43:32.744 I/bt_stack(16319): [INFO:btm_ble_bgconn.cc(420)] Already connection initiated (or) No Pending connections(or) Resources of lcb are ex
+hausted
+bluetootgeneralh_log.txt:70526:07-31 13:43:32.758 D/A2dpService(16319): MultiA2dpStateReceiver: onReceive intent=Intent { act=android.bluetooth.device.action.ACL_DISCONNECTED flg=0x50
+00010 (has extras) }
+bluetootgeneralh_log.txt:70527:07-31 13:43:32.762 D/BluetoothMapService(16319): onReceive: android.bluetooth.device.action.ACL_DISCONNECTED
+bluetootgeneralh_log.txt:70541:07-31 13:43:32.781 W/AIVS    (12600): BluetoothBase:onReceive: ACTION_ACL_DISCONNECTED, device:Q199E4CU7260973 type:2
+bluetootgeneralh_log.txt:70565:07-31 13:43:32.825 I/ytj     ( 9165): (REDACTED) bluetoothConnectionStateChanged. Action: %s
+bluetootgeneralh_log.txt:70587:07-31 13:43:32.866 I/ActivityManager( 1818): Start proc 28756:com.google.android.projection.gearhead:shared/u0a185 for broadcast {com.google.android.pro
+jection.gearhead/com.google.android.apps.auto.components.connectivity.impl.ConnectivityEventHandlerImpl$ConnectivityEventBroadcastReceiver} caller=com.android.bluetooth
+bluetootgeneralh_log.txt:70593:07-31 13:43:32.871 D/DeviceListActivity(27798): startScan: hadConnectedfalse
+bluetootgeneralh_log.txt:70737:07-31 13:43:33.053 I/Perf    (28756): Connecting to perf service.
+bluetootgeneralh_log.txt:70841:07-31 13:43:33.288 I/GH.ConnLoggerV2(28756): Session 1892b47c-8230-48bd-a246-efebb12df69d, event 1, detail OptionalInt.empty, USB_CHARGER_CONNECTED, at 
+1476480693 
+bluetootgeneralh_log.txt:70862:07-31 13:43:33.337 I/GH.SharedServiceConnect(28756): onServiceConnected(ComponentName:ComponentInfo{com.google.android.projection.gearhead/com.google.an
+droid.gearhead.service.SharedService}, service:jzx@8e5465f)
+bluetootgeneralh_log.txt:70937:07-31 13:43:33.521 I/Perf    (28788): Connecting to perf service.
+bluetootgeneralh_log.txt:71079:07-31 13:43:36.288 I/GH.ConnLoggerV2(28756): connectivity state updated: false
+bluetootgeneralh_log.txt:71264:07-31 13:43:38.036 V/bt_stack(16319): [VERBOSE1:btm_acl.cc(3006)] connecting_bda: 2e:b8:1a:34:45:d7
+bluetootgeneralh_log.txt:71341:07-31 13:43:40.719 W/bt_l2cap(16319): L2CAP - LCID: 0x004e  st: CLOSED  evt: LOWER_LAYER_CONNECT_CFM
+bluetootgeneralh_log.txt:71348:07-31 13:43:40.726 V/bt_stack(16319): [VERBOSE1:smp_l2c.cc(255)] smp_br_connect_callback for pairing BDA: 2e:b8:1a:34:45:d7, pairing_bda:00:00:00:00:00:
+00 Event: disconnected
+bluetootgeneralh_log.txt:71350:07-31 13:43:40.728 E/BluetoothPhonePolicy(16319): Received unexpected intent, action=android.bluetooth.device.action.ACL_CONNECTED
+bluetootgeneralh_log.txt:71351:07-31 13:43:40.728 I/BluetoothPhonePolicy(16319): processDeviceConnected, device=2E:B8:1A:34:45:D7
+bluetootgeneralh_log.txt:71352:07-31 13:43:40.729 D/BluetoothDatabase(16319): setConnection: device=2E:B8:1A:34:45:D7 and isA2dpDevice=false
+bluetootgeneralh_log.txt:71353:07-31 13:43:40.729 D/BluetoothDatabase(16319): Updating last connected time for device: 2E:B8:1A:34:45:D7 to 20
+bluetootgeneralh_log.txt:71358:07-31 13:43:40.732 I/AIVS    (12600): BluetoothBase:onConnection Find device :2E:B8:1A:34:45:D7 not exist.
+bluetootgeneralh_log.txt:71364:07-31 13:43:40.741 W/bt_l2cap(16319): L2CAP - LCID: 0x004e  st: W4_L2CAP_CON_RSP  evt: PEER_CONNECT_RSP
+bluetootgeneralh_log.txt:71371:07-31 13:43:40.745 I/AIVS    (12600): BluetoothBase:onReceive: ACTION_ACL_CONNECTED,  device : BluetoothDeviceInfo{ mCurrentOpType: 3 Device Ble='Q199E4
+CU7260973; 2E:B8:1A:34:45:D7 Device Edr ='Q199E4CU7260973; 2E:B8:1A:34:45:D7 vid:0xffff pid:0xffff MandatoryUpgrade:false channelStatus:0bleStatus:0 sppStatus:0 authStage:0 PowerMode:
+0 mBackUpMode:-1 isDeviceInfoUpdated:false authCmd:false FailedReason:0x0}
+bluetootgeneralh_log.txt:71378:07-31 13:43:40.751 I/GH.WifiBluetoothRcvr(28756): Connection action: android.bluetooth.device.action.ACL_CONNECTED, device 2E:B8:1A:34:45:D7
+bluetootgeneralh_log.txt:71403:07-31 13:43:40.772 I/ytj     ( 9165): (REDACTED) bluetoothConnectionStateChanged. Action: %s
+bluetootgeneralh_log.txt:71411:07-31 13:43:40.774 W/bt_l2cap(16319): L2CA_DisconnectReq()  CID: 0x004e
+bluetootgeneralh_log.txt:71413:07-31 13:43:40.778 W/bt_l2cap(16319): L2CAP - LCID: 0x004e  st: W4_L2CAP_DISC_RSP  evt: PEER_DISCONNECT_RSP
+bluetootgeneralh_log.txt:71415:07-31 13:43:40.779 I/bt_stack(16319): [INFO:port_api.cc(123)] RFCOMM_CreateConnection BDA: 2e:b8:1a:34:45:d7
+bluetootgeneralh_log.txt:71416:07-31 13:43:40.779 W/bt_l2cap(16319): L2CAP - LCID: 0x004f  st: CLOSED  evt: UPPER_LAYER_CONNECT_REQ
+bluetootgeneralh_log.txt:71425:07-31 13:43:40.794 D/SlaveWifiManager( 1818): getWifiSlaveConnectionInfo
+bluetootgeneralh_log.txt:71426:07-31 13:43:40.795 I/chatty  ( 1818): uid=1000(system) ConnectivitySer identical 50 lines
+bluetootgeneralh_log.txt:71427:07-31 13:43:40.795 D/SlaveWifiManager( 1818): getWifiSlaveConnectionInfo
+bluetootgeneralh_log.txt:71432:07-31 13:43:40.801 I/GH.ConnLoggerV2(28756): Session 1892b47c-8230-48bd-a246-efebb12df69d, event 3, detail OptionalInt.empty, INTERNET_CONNECTED, at 147
+6488239 throttle THROTTLE_LIMIT_EXCEEDED
+bluetootgeneralh_log.txt:71464:07-31 13:43:40.895 W/bt_l2cap(16319): L2CAP - LCID: 0x004f  st: W4_L2CAP_CON_RSP  evt: PEER_CONNECT_RSP
+bluetootgeneralh_log.txt:71479:07-31 13:43:40.989 D/bt_btif_sock_rfcomm(16319): on_cli_rfc_connect  mtu = 662 
+bluetootgeneralh_log.txt:71623:07-31 13:43:41.755 D/TrackEventInterceptor(27798): intercept: --> ÕÄşÕğïurl https://api-oversea.qu-in.top/api/endPoint/connecting?sn=Q199E4CU7260973&fir
+mwareVersion=2.2.3
+bluetootgeneralh_log.txt:71948:07-31 13:43:43.829 I/GH.ConnLoggerV2(28756): connectivity state updated: false
+bluetootgeneralh_log.txt:72005:07-31 13:43:44.469 D/MiuiMultiWindowAdapter( 1818): MiuiMultiWindowAdapter::getFreeformBlackList::sSmallWindowBlackList = [com.miui.securitycenter, com.
+miui.weather2, com.miui.miservice, com.android.calendar, com.xiaomi.calendar, com.android.contacts, com.miui.mishare.connectivity, com.android.settings, com.android.printspooler, com.
+miui.backup, com.miui.huanji, com.miui.calculator, com.android.deskclock, com.android.thememanager, com.mfashiongallery.emag, com.miui.virtualsim, com.miui.smarttravel, com.mi.health,
+ com.android.camera, com.lbe.security.miui, com.miui.cleanmaster, com.miui.newhome, com.miui.voiceassist, com.android.phone, com.miui.yellowpage, com.android.updater, com.miui.tsmclie
+nt, com.miui.securitycore, com.xiaomi.account, com.xiaomi.shop, com.mipay.wallet, com.xiaomi.youpin, com.xiaomi.hm.health, com.miui.bugreport, com.xiaomi.mibrain.speech, com.xiaomi.mi
+moji, com.xiaomi.scanner, com.duokan.phone.remotecontroller, com.miui.hybrid, com.android.incallui, com.miui.video, com.miui.videoplayer, com.miui.player, com.miui.fm, com.miui.packag
+einstaller, com.mi.android.globallauncher, com.google.android.dialer, com.google.android.apps.magazines, com.miui.compass, com.miui.greenguard, com.kiteguard, com.google.android.apps.
+prodcasts, com.google.ar.lens, com.xiangkan.android, com.android.bankabc, com.sohu.inputmethod.sogou, com.tencent.mtt, com.shyz.toutiao, com.netease.mc.mi, com.outfit7.talkingtomgoldr
+un.mi, com.doudz.mi, com.wepie.snake.new.mi, cn.jj, com.standddz002.mi, com.miHoYo.bh3.mi, com.qqgame.hlddz, com.happyelements.AndroidAnimal, com.minitech.miniworld.TMobile.mi, com.mf
+p.jelly.xiaomi, com.lilithgames.afk.mi, com.tencent.peng, com.teenpatti.hd.gold, blockpuzzle.jewelgames.jewelslegend, com.playgendary.tanks, com.chillingo.robberybobfree.android.row, 
+com.episodeinteractive.android.catalog, com.playrix.township, com.ansangha.drdriving, com.google.android.youtube, com.gbits.atm.mi]
+bluetootgeneralh_log.txt:72333:07-31 13:43:47.601 I/PlayCommon(28607): [61576] Connecting to server for timestamp: https://play.googleapis.com/play/log/timestamp
+bluetootgeneralh_log.txt:72344:07-31 13:43:47.920 I/PlayCommon(28607): [61576] Connecting to server: https://play.googleapis.com/play/log?format=raw&proto_v2=true
+
+
