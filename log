@@ -1,5 +1,27 @@
 
-bluetootgeneralh_log.txt:57180:07-31 13:05:54.905 W/Looper  ( 1818): Slow dispatch took 106ms android.fg h=android.os.Handler c=android.app.LoadedApk$ServiceDispatcher$RunConnection@5
+bluetootgeneralh_log.txt:11700:07-19 10:45:19.419 F/DEBUG   (31069):       #12 pc 000000000088e254  /system/framework/arm64/boot-framework.oat (com.android.internal.os.ZygoteConnectio
+n.processOneCommand+1876) (BuildId: fbfea5dcb866437a69805226249eecb5a272e224)
+bluetootgeneralh_log.txt:11838:07-30 15:01:36.297 W/BpBinder(21884): PerfMonitor binderTransact :  time=258ms interface=android.bluetooth.IBluetoothGatt code=4
+bluetootgeneralh_log.txt:12617:07-31 01:25:22.010 W/Looper  ( 3841): PerfMonitor longMsg : seq=68 plan=01:25:19.342 late=0ms wall=2658ms running=1ms h=android.app.ActivityThread$H c=a
+ndroid.app.LoadedApk$ServiceDispatcher$RunConnection procState=10
+bluetootgeneralh_log.txt:12620:07-31 01:25:23.050 W/Looper  ( 3841): PerfMonitor longMsg : seq=69 plan=01:25:19.342 late=2668ms wall=1040ms running=0ms h=android.app.ActivityThread$H 
+c=android.app.LoadedApk$ServiceDispatcher$RunConnection procState=10
+bluetootgeneralh_log.txt:13590:07-31 10:41:24.908 W/BpBinder(22626): PerfMonitor binderTransact :  time=252ms interface=android.net.IConnectivityManager code=3
+bluetootgeneralh_log.txt:13604:07-31 10:41:25.424 E/LoadedApk(23211): java.lang.ClassNotFoundException: Didn't find class "androidx.core.app.CoreComponentFactory" on path: DexPathList
+[[zip file "/system/app/mi_connect_service/mi_connect_service.apk"],nativeLibraryDirectories=[/system/app/mi_connect_service/lib/arm64, /system/app/mi_connect_service/mi_connect_servi
+ce.apk!/lib/arm64-v8a, /system/lib64, /system/system_ext/lib64, /system/lib64, /system/system_ext/lib64]]
+bluetootgeneralh_log.txt:13817:07-31 10:48:35.397 E/LoadedApk(27852): java.lang.ClassNotFoundException: Didn't find class "androidx.core.app.CoreComponentFactory" on path: DexPathList
+[[zip file "/system/app/mi_connect_service/mi_connect_service.apk"],nativeLibraryDirectories=[/system/app/mi_connect_service/lib/arm64, /system/app/mi_connect_service/mi_connect_servi
+ce.apk!/lib/arm64-v8a, /system/lib64, /system/system_ext/lib64, /system/lib64, /system/system_ext/lib64]]
+bluetootgeneralh_log.txt:14042:07-31 11:37:17.242 E/LoadedApk(32256): java.lang.ClassNotFoundException: Didn't find class "androidx.core.app.CoreComponentFactory" on path: DexPathList
+[[zip file "/system/app/mi_connect_service/mi_connect_service.apk"],nativeLibraryDirectories=[/system/app/mi_connect_service/lib/arm64, /system/app/mi_connect_service/mi_connect_servi
+ce.apk!/lib/arm64-v8a, /system/lib64, /system/system_ext/lib64, /system/lib64, /system/system_ext/lib64]]
+bluetootgeneralh_log.txt:14502:07-31 12:08:09.944 E/LoadedApk( 7146): java.lang.ClassNotFoundException: Didn't find class "androidx.core.app.CoreComponentFactory" on path: DexPathList
+[[zip file "/system/app/mi_connect_service/mi_connect_service.apk"],nativeLibraryDirectories=[/system/app/mi_connect_service/lib/arm64, /system/app/mi_connect_service/mi_connect_servi
+ce.apk!/lib/arm64-v8a, /system/lib64, /system/system_ext/lib64, /system/lib64, /system/system_ext/lib64]]
+bluetootgeneralh_log.txt:14888:07-31 12:43:57.564 E/LoadedApk(12669): java.lang.ClassNotFoundException: Didn't find class "androidx.core.app.CoreComponentFactory" on path: DexPathList
+[[zip file "/system/app/mi_connect_service/mi_connect_service.apk"],nativeLibraryDirectories=[/system/app/mi_connect_service/lib/arm64, /system/app/mi_connect_service/mi_connect_servi
+ce.apk!/lib/arm64-v8a, /system/lib64, /system/system_ext/lib64, /system/lib64, /system/system_ext/lib64]]p.LoadedApk$ServiceDispatcher$RunConnection@5
 2b9144 m=0
 bluetootgeneralh_log.txt:57308:07-31 13:05:57.207 W/ActivityManager( 1818): Scheduling restart of crashed service com.miui.msa.global/com.miui.systemAdSolution.splashscreen.SplashScre
 enService in 130562ms for connection
